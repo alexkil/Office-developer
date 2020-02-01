@@ -1,0 +1,9 @@
+﻿<Application x:Class="WpfMasterDetail_Demo.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WpfMasterDetail_Demo"
+             StartupUri="View/MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
